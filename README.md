@@ -1,5 +1,7 @@
 # Project A3
 
+[Website](https://project-a3.alvinchiew.com)
+
 Alvin • AI • Automation
 
 Made Simple. For Business | 🚀 Showcase FRI · 🔨 Build TUES
@@ -15,4 +17,3 @@ Made Simple. For Business | 🚀 Showcase FRI · 🔨 Build TUES
 ## Contact
 
 - Business Inquiries: [contact@alvinchiew.com](contact@alvinchiew.com)
-- Links: [Portfolio](https://alvinchiew.com), [LinkedIn](https://www.linkedin.com/in/alvinchiew/)
