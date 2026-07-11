@@ -2,6 +2,12 @@
 
 [Website](https://project-a3.alvinchiew.com)
 
+## Tools
+
+- EP01 [Auto Email](./ep01-auto-email/README.md)
+
+## About
+
 Alvin • AI • Automation
 
 Made Simple. For Business | 🚀 Showcase FRI · 🔨 Build TUES
