@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "tools": {
+    "auto-email": {
+      "version": "0.1.0",
+      "installers": {
+        "windows-x64": {
+          "url": "https://github.com/AlvinChiew/project-a3/releases/download/auto-email-v0.1.0/auto-email-v0.1.0-x64.exe"
+        }
+      }
+    }
+  }
+}
