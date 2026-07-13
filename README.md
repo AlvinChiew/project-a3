@@ -1,10 +1,10 @@
 # Project A3
 
-[Website](https://project-a3.alvinchiew.com)
+Visit our [Website](https://project-a3.alvinchiew.com) for more details!
 
 ## Tools
 
-- EP01 [Auto Email](./ep01-auto-email/README.md)
+- EP01 Auto Email - [Download](https://github.com/AlvinChiew/project-a3/releases/download/latest/auto-email_x64-setup.exe), [User Guide](./ep01-auto-email/README.md)
 
 ## About
 
