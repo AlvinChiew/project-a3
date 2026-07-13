@@ -5,7 +5,7 @@
       "version": "1.0.0",
       "installers": {
         "windows-x64": {
-          "url": "https://github.com/AlvinChiew/project-a3/releases/download/auto-email-v1.0.0/auto-email_1.0.0_x64-setup.exe"
+          "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/auto-email_x64-setup.exe"
         }
       }
     }
