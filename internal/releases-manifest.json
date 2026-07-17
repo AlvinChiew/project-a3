@@ -5,7 +5,15 @@
       "version": "1.0.0",
       "installers": {
         "windows-x64": {
-          "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/auto-email_x64-setup.exe"
+          "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/ep01-auto-email_x64-setup.exe"
+        }
+      }
+    },
+    "auto-whatsapp": {
+      "version": "1.0.0",
+      "installers": {
+        "windows-x64": {
+          "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/ep02-auto-whatsapp_x64-setup.exe"
         }
       }
     }

@@ -6,7 +6,7 @@ A simple guide to get your first follow-up email sequence running.
 
 1. Download the installer from the GitHub Releases (download link is under the video description too!):
 
-- **Auto Email_1.0.0_x64-setup.exe** (recommended)
+- **ep01-auto-email_1.0.0_x64-setup.exe** (recommended)
 
 1. Run the installer and open **Auto Email** from the Start menu.
 
