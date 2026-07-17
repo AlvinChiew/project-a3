@@ -29,4 +29,4 @@ AI AUTOMATION FOR EVERYONE
 
 ## Contact
 
-- Business Inquiries: [contact@alvinchiew.com](contact@alvinchiew.com)
+- Business Inquiries: [contact.project.a3@alvinchiew.com](contact.project.a3@alvinchiew.com)

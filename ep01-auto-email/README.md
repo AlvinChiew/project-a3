@@ -94,7 +94,7 @@ You can also add contacts one at a time.
 
 - **About** → contact links for A3 team
 - Use **Click for update** to get the latest version
-- Business inquiries: [contact@alvinchiew.com](mailto:contact@alvinchiew.com)
+- Business inquiries: [contact.project.a3@alvinchiew.com](mailto:contact.project.a3@alvinchiew.com)
 
 ---
 
