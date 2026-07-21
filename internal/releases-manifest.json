@@ -16,6 +16,14 @@
           "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/ep02-auto-whatsapp_x64-setup.exe"
         }
       }
+    },
+    "ai-whatsapp": {
+      "version": "1.0.0",
+      "installers": {
+        "windows-x64": {
+          "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/ep03-ai-whatsapp_x64-setup.exe"
+        }
+      }
     }
   }
 }

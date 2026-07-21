@@ -62,14 +62,14 @@ phone,name
 
 ## Troubleshooting
 
-| Problem                     | What to try                                                                                |
-| --------------------------- | ------------------------------------------------------------------------------------------ |
-| QR never appears            | Confirm the WhatsApp bridge started (restart the app). Dev builds need Node 20+ installed. |
-| Scan works then disconnects | Keep your phone online; re-scan from Settings → Disconnect → new QR.                       |
-| Test message fails          | Use full country code digits; recipient must be a valid WhatsApp number.                   |
-| Campaign won't start        | Link WhatsApp in Settings; add at least one step and one list.                             |
-| Messages not sending        | Keep the app open; check send logs for errors; increase send delay.                        |
-| Account warnings            | Lower volume, increase delay, message only consented contacts.                             |
+| Problem                     | What to try                                                              |
+| --------------------------- | ------------------------------------------------------------------------ |
+| QR never appears            | Confirm the WhatsApp bridge started (restart the app).                   |
+| Scan works then disconnects | Keep your phone online; re-scan from Settings → Disconnect → new QR.     |
+| Test message fails          | Use full country code digits; recipient must be a valid WhatsApp number. |
+| Campaign won't start        | Link WhatsApp in Settings; add at least one step and one list.           |
+| Messages not sending        | Keep the app open; check send logs for errors; increase send delay.      |
+| Account warnings            | Lower volume, increase delay, message only consented contacts.           |
 
 ## Updates
 
