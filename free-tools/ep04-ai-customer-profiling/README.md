@@ -53,23 +53,39 @@ Get a key from your OpenAI account dashboard. You pay OpenAI directly for usage.
 
 1. Open **Conversations**.
 2. Turn **Profiling on**.
-3. When customers message you in 1:1 chats, conversations appear in the list.
-4. After a short quiet window, tags update. Open a chat for history, tag chips, and **Re-profile**.
+3. When customers message you in 1:1 chats, conversations appear in the list (WhatsApp display names show when available; phone numbers appear underneath).
+4. After a short quiet window (~6 seconds after the last **customer** inbound), tags update. Open a chat for history, tag chips, and **Re-profile**.
 
 Each profile run sends **all enabled tags** plus the recent chat transcript (up to 40 message bubbles) in **one** OpenAI request (it does not wait for a fixed number of messages, and it does not call OpenAI once per tag).
 
-Tips: hedging (“maybe this week or next month”) leaves a tag empty; the latest clear statement wins over older ones.
+**Both sides of the chat count.** Inbound customer messages are stored as **customer**; your outbound replies from the linked WhatsApp account are stored as **user**. Your questions and confirmations help the AI interpret short customer answers — but tags are still driven by customer evidence, not guesses from your messages alone.
+
+**Partial updates.** On each run, only tags with new evidence change. If the AI has nothing new for a tag, the previous value is kept. Hedging (“maybe this week or next month”) leaves a tag empty; the latest clear statement wins over older ones.
+
+**Profiling off.** Turning profiling off still stores messages. Turn it back on or click **Re-profile** on a chat when you want tags refreshed.
+
+### Filter and manage chats
+
+- **Filter by phone** — type digits from the customer number (e.g. `60123456789`).
+- **Filter by tag** — pick a tag option (or “unset”) to narrow the list; combine with the phone filter.
+- **Refresh** — reload the list and open chat without waiting for the auto-refresh.
+- **Last profile** — on each chat, see Success or Failed, when it ran, and any error message.
+- **Delete customer** — remove stored messages, tags, and profile history for that chat (cannot be undone).
+
+Tips: after you change tag definitions, open a chat and click **Re-profile**. Review tags before acting — AI can be wrong.
 
 ## Troubleshooting
 
-| Problem                      | What to try                                                                                     |
-| ---------------------------- | ----------------------------------------------------------------------------------------------- |
-| QR never appears             | Restart the app.                                                                                |
-| Scan works then disconnects  | Keep your phone online; Settings → Disconnect → scan a new QR.                                  |
-| OpenAI Test fails            | Check the key, billing on your OpenAI account, and model name.                                  |
-| No chats / empty tags        | Confirm WhatsApp **Connected**, Profiling on, key tested, tags defined, and the app stays open. |
-| Wrong tag after a correction | Wait for the quiet window or click **Re-profile**.                                              |
-| Account warnings             | Lower volume; use only for chats you already handle; review WhatsApp’s terms.                   |
+| Problem                      | What to try                                                                                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| QR never appears             | Restart the app.                                                                                                             |
+| Scan works then disconnects  | Keep your phone online; Settings → Disconnect → scan a new QR.                                                               |
+| OpenAI Test fails            | Check the key, billing on your OpenAI account, and model name.                                                               |
+| No chats / empty tags        | Confirm WhatsApp **Connected**, Profiling on, key tested, tags defined, and the app stays open.                              |
+| Wrong tag after a correction | Wait for the quiet window or click **Re-profile**.                                                                           |
+| Language tag stays empty     | Use “language” in the tag name or description; ensure the customer wrote clearly in one listed language earlier in the chat. |
+| Profile shows Failed         | Open the chat and read **Last profile** for the error; fix the key/model/tags, then **Re-profile**.                          |
+| Account warnings             | Lower volume; use only for chats you already handle; review WhatsApp’s terms.                                                |
 
 ## Updates
 
