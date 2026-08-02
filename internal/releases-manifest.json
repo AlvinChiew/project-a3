@@ -32,6 +32,14 @@
           "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/ep04-ai-customer-profiling_x64-setup.exe"
         }
       }
+    },
+    "ai-video-editor": {
+      "version": "1.0.0",
+      "installers": {
+        "windows-x64": {
+          "url": "https://github.com/AlvinChiew/project-a3/releases/download/latest/ep05-ai-video-editor_x64-setup.exe"
+        }
+      }
     }
   }
 }

@@ -10,6 +10,7 @@ Public repo for user guides, changelogs, installers and manifests.
 - EP02 Auto WhatsApp — [Download](https://github.com/AlvinChiew/project-a3/releases/download/latest/ep02-auto-whatsapp_x64-setup.exe), [User Guide](./free-tools/ep02-auto-whatsapp/README.md)
 - EP03 AI WhatsApp — [Download](https://github.com/AlvinChiew/project-a3/releases/download/latest/ep03-ai-whatsapp_x64-setup.exe), [User Guide](./free-tools/ep03-ai-whatsapp/README.md)
 - EP04 AI Customer Profiling — [Download](https://github.com/AlvinChiew/project-a3/releases/download/latest/ep04-ai-customer-profiling_x64-setup.exe), [User Guide](./free-tools/ep04-ai-customer-profiling/README.md)
+- EP05 AI Video Editor — [Download](https://github.com/AlvinChiew/project-a3/releases/download/latest/ep05-ai-video-editor_x64-setup.exe), [User Guide](./free-tools/ep05-ai-video-editor/README.md)
 
 ## About
 
