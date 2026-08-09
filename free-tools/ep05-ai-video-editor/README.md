@@ -22,24 +22,24 @@ Clean up a rough talking-head video in minutes — you approve every cut before 
 
 ## Edit a video (5 steps)
 
-### 1 — Upload
+### 1 — Transcribe
 
 - Click **New project** on the home screen and choose an MP4 or MOV file.
 - Click **Transcribe** to generate a timestamped transcript from the actual audio.
 
-### 2 — Review cuts
+### 2 — Process
 
 - Red badges = suggested cuts (repeats, restarts). Yellow = review only (pauses, fillers).
 - **Conservative** mode (default) preselects only high-confidence repeats — never a full sentence silently.
 - Toggle **Cut** / **Keep** on each suggestion; use **Preview** to hear that section.
-- Click **Continue to framing** when done.
+- Click **Continue to Frame** when done.
 
-### 3 — Frame 9:16
+### 3 — Frame
 
 - Drag the yellow crop box so the person fills the vertical frame — no black bars.
 - Use **Keep full person visible** if needed, then **Save crop**.
 
-### 4 — Subtitles
+### 4 — Subtitle
 
 - Subtitles are timed from the **final** cut, not the original recording.
 - Edit wording and line breaks, then **Continue to export**.
