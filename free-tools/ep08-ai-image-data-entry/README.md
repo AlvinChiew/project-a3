@@ -1,4 +1,4 @@
-# Image Data Entry — User Guide
+# AI Image Data Entry — User Guide
 
 Turn receipt and invoice photos into spreadsheet rows for your business.
 
@@ -9,8 +9,8 @@ Turn receipt and invoice photos into spreadsheet rows for your business.
 
 ## Install
 
-1. Download **EP08 Image Data Entry** from [Project A3 on GitHub](https://github.com/AlvinChiew/project-a3).
-2. Run the installer and open **Image Data Entry**.
+1. Download **EP08 AI Image Data Entry** from [Project A3 on GitHub](https://github.com/AlvinChiew/project-a3).
+2. Run the installer and open **AI Image Data Entry**.
 
 ## Activate (one time)
 
